@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jovanakis/Jovanakis/main/SNAI.png" width="100%" />
+  <img src="./SNAI_Image.png" style="max-width:100%;" alt="SNAI banner" />
 </p>
 
 # Hello, I'm Joanna! 👋
