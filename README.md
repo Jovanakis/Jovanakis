@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/Jovanakis/Jovanakis/blob/main/SNAI.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/Jovanakis/Jovanakis/main/SNAI.png" width="100%" />
 </p>
-
 
 # Hello, I'm Joanna! 👋
 🏆 MVP – M365 Copilot & Exchange | 🔐 Cybersecurity & AI Professional | 🎓 MCT
