@@ -3,7 +3,7 @@
 </p>
 
 # Hello, I'm Joanna! 👋
-🏆 MVP – M365 Copilot & Exchange | 🔐 Cybersecurity & AI Professional | 🎓 MCT
+🏆 MVP – M365 Copilot & Exchange | 🔐 Cloud Security Architect | Microsoft Security (Defender XDR, Purview, M365) | AI Governance & Data Protection | 🎓 MCT
 
 Welcome to my GitHub profile! 
 I have over 25 years’ experience in development and delivery! Curious by nature, strategic by design, and driven by purpose—I thrive at the intersection of creativity and execution. With a background in Microsoft Technologies, AI Technologies, tech, education, I bring a blend of analytical thinking and human-centered insight to every project I touch.
@@ -16,7 +16,7 @@ Over the years, I’ve cultivated a reputation for being a thoughtful collaborat
 
 
 
-# **Welcome to our cyber‑coding universe—where creativity meets technology! 🌐⚡💻**
+# **Welcome to our cyber coding universe, where creativity meets technology! 🌐⚡💻**
 
 
 <p align="center">
