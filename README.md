@@ -20,7 +20,7 @@ Over the years, I’ve cultivated a reputation for being a thoughtful collaborat
 
 
 <p align="center">
-  <img src="./Jo SNAI GitHub.png" style="max-width:700;" alt="SNAI banner" />
+  <img src="./Jo SNAI GitHub_2.png.png" style="max-width:700;" alt="SNAI banner" />
 </p>
 <!--
 **Jovanakis/Jovanakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
